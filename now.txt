@@ -1,0 +1,17 @@
+# What the header banner says you are shipping right now.
+# One item per line. The banner rolls through them in order, top to bottom.
+# Lines starting with # are ignored. Keep each item under about 40 characters.
+#
+# Change the words in front of the items with a line like:  label: now building
+#
+# Save this file on GitHub and the profile image rebuilds itself within a minute.
+
+label: now shipping
+
+fx-research
+a look-ahead-proof FX backtester
+fitsylvania.com
+live video coaching
+a workout builder for trainers
+recurring coaching plans on Stripe
+an AI vision conveyor sorter
